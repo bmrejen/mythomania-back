@@ -21,7 +21,7 @@
     "multer": "^1.4.4"
   },
   "devDependencies": {
-    "nodemon": "^2.0.16",
+    "nodemon": "^2.0.20",
     "prisma": "^3.14.0"
   }
 }
